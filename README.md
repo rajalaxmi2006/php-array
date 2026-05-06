@@ -257,8 +257,11 @@ php index.php
 ## ⚠️ Common Mistakes
 
 ❌ Using wrong index (out of bounds)
+
 ❌ Forgetting `$` in variable names
+
 ❌ Confusing `print_r()` with `echo`
+
 ❌ Typo in function names
 
 ---
